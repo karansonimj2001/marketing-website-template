@@ -28,6 +28,7 @@ Version Control & Hosting: GitHub
 ## Clone the repository:
 
 git clone https://github.com/karansonimj2001/marketing-website-template.git
+
 cd marketing-website-template
 
 
